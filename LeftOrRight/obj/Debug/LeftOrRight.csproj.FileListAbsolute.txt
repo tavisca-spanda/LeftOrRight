@@ -1,0 +1,7 @@
+C:\Users\spanda\source\repos\LeftOrRight\LeftOrRight\bin\Debug\LeftOrRight.exe.config
+C:\Users\spanda\source\repos\LeftOrRight\LeftOrRight\bin\Debug\LeftOrRight.exe
+C:\Users\spanda\source\repos\LeftOrRight\LeftOrRight\bin\Debug\LeftOrRight.pdb
+C:\Users\spanda\source\repos\LeftOrRight\LeftOrRight\obj\Debug\LeftOrRight.csprojAssemblyReference.cache
+C:\Users\spanda\source\repos\LeftOrRight\LeftOrRight\obj\Debug\LeftOrRight.csproj.CoreCompileInputs.cache
+C:\Users\spanda\source\repos\LeftOrRight\LeftOrRight\obj\Debug\LeftOrRight.exe
+C:\Users\spanda\source\repos\LeftOrRight\LeftOrRight\obj\Debug\LeftOrRight.pdb
